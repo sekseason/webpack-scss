@@ -2,6 +2,9 @@
 
 Webpack + Scss Html mockup
 
+Video Example:  
+https://www.loom.com/share/1d2d3c919f6d4599aa8b17b1fd6534f3
+
 #### Installation
 
 ```
