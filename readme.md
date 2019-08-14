@@ -5,8 +5,8 @@ Webpack + Scss Html mockup
 #### Installation
 
 ```
-clone this repo [branch: html-mockup]
-$ cd servcard-server
+clone this repo
+$ cd webpack-scss
 $ npm install | yarn
 ```
 
